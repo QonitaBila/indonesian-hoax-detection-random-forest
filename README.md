@@ -43,6 +43,10 @@ The detailed preprocessing steps, model training, and evaluation results are doc
 ## 📊 Dataset
 The dataset used in this project is available in the repository as `deteksi_hoaks_dataset fix.csv`.
 
+## 📊 Experimental Results
+The following visualization summarizes the experimental results of the Indonesian hoax detection model using Random Forest, comparing Single-Stage and Multi-Stage SMOTE approaches.
+![Indonesian Hoax Detection Experimental Results](hoax-detection-experimental-results.png)
+
 ## 👩‍💻 Author
 **Qonita Nashifa Anabila**
 
